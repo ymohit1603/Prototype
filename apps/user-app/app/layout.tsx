@@ -13,6 +13,8 @@ export const metadata: Metadata = {
   description: "Simple wallet app",
 };
 
+
+
 export default function RootLayout({
   children,
 }: {
